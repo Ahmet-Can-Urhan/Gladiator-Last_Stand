@@ -62,13 +62,17 @@ The game combines fast-paced melee combat with wave progression and boss encount
 ## Installation
 
 <b>Windows</b>
-1. Download the latest release from the **Releases** section.
+
+<a href=https://github.com/Ahmet-Can-Urhan/Gladiator-Last_Stand/releases/download/WINDOWS/Gladiator.-.Last.Stand.WINDOWS.zip>Download</a>
+1. Download the latest release from the **Releases** section or the link above.
 2. Extract the ZIP archive.
 3. Launch `Gladiator Last Stand.exe`.
 4. Enjoy the game.
 
 <b>Linux</b> 
-1. Download the Linux release.
+
+<a href="https://github.com/Ahmet-Can-Urhan/Gladiator-Last_Stand/releases/download/LINUX/Gladiator.-.Last.Stand.Linux.zip">Download</a>
+1. Download the Linux release from the **Releases** section or the link above.
 2. Extract the archive.
 3. Open a terminal inside the extracted folder.
 4. Make the executable runnable:
@@ -79,7 +83,9 @@ The game combines fast-paced melee combat with wave progression and boss encount
 Alternatively, you can make the file executable through your file manager and launch it by double-clicking.
 
 <b>MacOS</b>
-1. Download the macOS release.
+
+<a href="https://github.com/Ahmet-Can-Urhan/Gladiator-Last_Stand/releases/download/MACOS/Gladiator.-.Last.Stand.MacOS.app.zip">Download</a>
+1. Download the macOS release from the **Releases** section or the link above.
 2. Extract the archive.
 3. Move Gladiator Last Stand.app to your Applications folder (optional).
 4. Open the application.
