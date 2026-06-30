@@ -55,7 +55,7 @@ The game combines fast-paced melee combat with wave progression and boss encount
 | **R**                  | Push           |
 | **ESC**                | Pause          |
 
-> *Update the controls above if they differ from your implementation.*
+
 
 ---
 
